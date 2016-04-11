@@ -1,0 +1,1 @@
+mex src/SLICSupervoxelsMex.cpp src/SLIC.cpp -Iinclude/ -outdir bin COPTIMFLAGS='-O3' 
